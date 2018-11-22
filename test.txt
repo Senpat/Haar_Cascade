@@ -1,0 +1,5 @@
+../frameswhitetriangle\scene00041.png 2 210 337 10 12 216 348 249 260 
+../frameswhitetriangle\scene00131.png 1 224 421 250 224 
+../frameswhitetriangle\scene00141.png 1 176 173 258 279 
+../frameswhitetriangle\scene00151.png 1 238 61 251 259 
+../frameswhitetriangle\scene00161.png 1 425 174 267 283 
